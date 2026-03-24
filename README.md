@@ -16,7 +16,7 @@ Extras: React-To-Print
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
 ## Sneak  Peek of Home Page 🙈 :
-![screencapture-CVForge-netlify-app-2022-01-18-16_24_49](https://user-images.githubusercontent.com/64949957/159115311-42275489-8fbe-4d80-9f7c-4d308d9287ce.png)
+![screencapture-CVForge-netlify-app-2022-01-18-16_24_49](<img src="https://github.com/user-attachments/assets/0949294e-2565-4b1e-9814-e9e81b6a359b" width="800"/>)
 ![smartmockups_kyk0u3hp](https://user-images.githubusercontent.com/64949957/159115313-ae8bf72c-2a79-425d-8520-32b6ba3e0fcf.jpg)
 
 
